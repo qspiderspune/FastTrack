@@ -1,0 +1,8 @@
+
+<suite name="Suite" parallel="none">
+  <test name="Test">
+    <classes>
+      <class name="com.actitime.testscript.TestClass"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
